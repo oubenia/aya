@@ -25,7 +25,8 @@ public class App01 {
 	}
 	
 	void m() {
-		int i = 10;
+		// i vaut maintenant 20
+		int i = 20;
 		log.info("Méthode m avec i = {}", i);
 	}
 
