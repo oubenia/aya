@@ -25,6 +25,7 @@ public class App01 {
 	}
 	
 	void m() {
+		// i vaut 10
 		int i = 10;
 		log.info("Méthode m avec i = {}", i);
 	}
