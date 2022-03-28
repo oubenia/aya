@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * @author rhona
- * Modif locale avec Eclipse
+ * Modif locale avec Eclipse nouveau
  *
  */
 public class App01 {
