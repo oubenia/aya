@@ -11,6 +11,7 @@ import org.slf4j.LoggerFactory;
  * Modif locale avec Eclipse nouveau
  * Modif direct sur la master
  * modif rhona
+ * modif oubenia
  *
  */
 public class App01 {
