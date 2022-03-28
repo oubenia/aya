@@ -10,6 +10,7 @@ import org.slf4j.LoggerFactory;
  * @author rhona
  * Modif locale avec Eclipse nouveau
  * Modif direct sur la master
+ * modif rhona
  *
  */
 public class App01 {
