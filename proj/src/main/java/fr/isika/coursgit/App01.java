@@ -9,6 +9,7 @@ import org.slf4j.LoggerFactory;
 /**
  * @author rhona
  * Modif locale avec Eclipse nouveau
+ * Modif direct sur la master
  *
  */
 public class App01 {
